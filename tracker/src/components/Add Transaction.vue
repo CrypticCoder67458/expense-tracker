@@ -15,3 +15,7 @@
         <button class="btn">Add transaction</button>
       </form>
 </template>
+
+
+<script setup>
+</script>
